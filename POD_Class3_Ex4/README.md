@@ -1,0 +1,1 @@
+The goal here is to see how runtime throws an exception because Node is not serializable.

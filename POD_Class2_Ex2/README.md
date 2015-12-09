@@ -1,0 +1,1 @@
+In this exercise the server side code is run by the TA. (So it won't run unless a Server is implemented and run locally).
